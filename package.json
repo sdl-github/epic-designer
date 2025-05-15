@@ -6,7 +6,7 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
-    "lib": "vitest run && pnpm run build -F epic-designer",
+    "lib": "pnpm run build -F epic-designer",
     "test": "vitest",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",

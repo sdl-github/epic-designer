@@ -1,5 +1,5 @@
 {
-  "name": "epic-designer",
+  "name": "@sdl-life/epic-designer",
   "version": "1.0.1",
   "description": "基于vue3的设计器,可视化开发页面表单",
   "private": false,
@@ -16,14 +16,7 @@
     "designer",
     "epic-designer"
   ],
-  "bugs": {
-    "url": "https://github.com/Kchengz/epic-designer/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Kchengz/epic-designer"
-  },
-  "author": "kchengz",
+  "author": "sdl",
   "type": "module",
   "scripts": {
     "build": "vite build",
